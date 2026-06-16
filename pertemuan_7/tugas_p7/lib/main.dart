@@ -12,7 +12,6 @@ class Catatan {
   final String isi;
   final String kategori;
   final DateTime dibuatPada;
-
   Catatan({
     this.id,
     required this.judul,
